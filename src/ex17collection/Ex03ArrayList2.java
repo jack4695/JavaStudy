@@ -79,6 +79,7 @@ public class Ex03ArrayList2 {
 				break;
 			}
 		}
+		
 		System.out.println("현재 객체수:"+ list2.size());
 		/*
 		앞에서 지원 인스턴스에 따라 아래에 결과는 달라질 수 있다.
@@ -91,6 +92,44 @@ public class Ex03ArrayList2 {
 		for(Student st : list2) {
 			System.out.println(st);
 		}
+		
+		/*
+		시나리오] 컬렉션에 저장된 객체를 "이름"으로 검색하여 삭제할 수 있는
+		코드를 작성하시오. 이때 반복문은 "확장for문"을 사용하시오.
+		*/
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }
